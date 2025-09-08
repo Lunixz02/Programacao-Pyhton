@@ -2,9 +2,6 @@
 
 categoria: **Programação Python**
 
-Nível: **##**
-
-
 ---
 **Descrição**
 
